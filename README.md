@@ -10,6 +10,8 @@ Features single-player and local multiplayer modes, a full collectibles system, 
 
 Platforms of randomized lengths, heights, and speeds scroll in from the right. Your goal is to keep jumping between them and survive as long as possible — while collecting power-ups and avoiding hazards.
 
+![Gameplay](images/StartScreen.png)
+
 ### Single Player
 - Collect items to boost your score
 - Platform speed increases over time
