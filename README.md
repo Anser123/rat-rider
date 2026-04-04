@@ -1,4 +1,4 @@
-# Rat Rider 🐀
+# Rat Rider 
 
 A physics-based 2D platformer built in **C++** using **SFML 2.6.2** and **Box2D 2.4.1**, developed as part of the *Object Oriented Programming* course at IBA Karachi (Spring 2025).
 
