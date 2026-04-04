@@ -1,0 +1,5 @@
+main
+*.o
+*.DS_Store
+highscore.txt
+.vscode/
