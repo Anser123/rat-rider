@@ -120,6 +120,6 @@ Set up SFML and Box2D with your compiler of choice (MSVC or MinGW), link the lib
 
 - Anser Abbas
 - Sudheer Rathore
-- Saad Ahmed
+- Saad Ahmed 
 
 *IBA Karachi · Object Oriented Programming · Spring 2025*
